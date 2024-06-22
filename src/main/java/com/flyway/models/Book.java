@@ -21,6 +21,8 @@ public class Book {
 
     private String name;
 
+    private Integer totalPage;
+
     public Book(String name) {
         this.name = name;
     }
