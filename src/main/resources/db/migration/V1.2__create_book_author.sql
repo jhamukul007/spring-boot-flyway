@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS `book_author` (
+ id VARCHAR(255) NOT NULL,
+ book_id VARCHAR(255) NOT NULL,
+ author_id VARCHAR(255) NOT NULL,
+ PRIMARY KEY(id),
+ FOREIGN KEY(book_id) REFERENCES book(id),
+ FOREIGN KEY(author_id) REFERENCES author(id)
+);

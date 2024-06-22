@@ -1,0 +1,5 @@
+INSERT INTO book_author(id, book_id, author_id) VALUES ('b730b51d-0d3d-4176-8e24-7e935631e897','f1d46231-61ab-4167-92f3-8ed3d04e85be', '8cc5fbb5-71ac-4d26-8085-2d3efc7077a7');
+INSERT INTO book_author(id, book_id, author_id) VALUES ('ccef6110-8532-44c0-8d91-0628c6c4a627','f1d46231-61ab-4167-92f3-8ed3d04e85be', '570b830c-ccb5-4161-9df3-141d504d61d2');
+INSERT INTO book_author(id, book_id, author_id) VALUES ('1603fe07-ab5a-4013-83e3-d4a38754e178','f1d46231-61ab-4167-92f3-8ed3d04e85be', '62eda9f7-9127-4eaf-a284-5918525722ea');
+INSERT INTO book_author(id, book_id, author_id) VALUES ('17532e0c-43ba-42ce-8cae-754199e2a440','90e51876-0de3-4b6d-af8b-defd9f2bd0ab', '20bbb84f-1271-453a-972c-36c15d89e9dd');
+INSERT INTO book_author(id, book_id, author_id) VALUES ('577fa0c4-8367-49f8-a79f-73b6b5af6b37','8141220e-f2c5-4997-b45b-f832cd0f0630', 'bbf5c55d-8267-4c98-842c-fe33fc39553e');
